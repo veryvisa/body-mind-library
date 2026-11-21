@@ -1,0 +1,12 @@
+/* Category-site kit (shared by every book under books/<slug>/). Each book keeps its own style.css and theme;
+   this only adds the category breadcrumb and the shared audio list. Neutral colours so any book theme fits. */
+.bml-crumb { font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; padding: 8px 16px; display: flex; flex-wrap: wrap;
+  gap: 4px 6px; align-items: center; background: rgba(127,127,127,.08); border-bottom: 1px solid rgba(127,127,127,.18); }
+.bml-crumb a { color: inherit; text-decoration: none; opacity: .85; overflow-wrap: anywhere; }
+.bml-crumb a:hover { text-decoration: underline; opacity: 1; }
+.bml-crumb .sep { opacity: .5; }
+.bml-crumb .here { font-weight: 600; }
+#bml-audio { margin: 1.5rem 0; }
+#bml-audio .ep { margin: .75rem 0; padding: .75rem; border: 1px solid rgba(127,127,127,.25); border-radius: 10px; }
+#bml-audio audio { width: 100%; max-width: 100%; display: block; margin: .4rem 0; }
+#bml-audio .dl { font-size: 14px; }

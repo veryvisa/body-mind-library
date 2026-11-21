@@ -1,0 +1,128 @@
+{
+ "cards-bi.pdf": {
+  "pages": 42,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 1753664,
+  "landscape": false
+ },
+ "cards-en.pdf": {
+  "pages": 42,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 1191200,
+  "landscape": false
+ },
+ "cards-zh.pdf": {
+  "pages": 42,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 1860390,
+  "landscape": false
+ },
+ "chapters-bi.pdf": {
+  "pages": 92,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 4686648,
+  "landscape": false
+ },
+ "chapters-en.pdf": {
+  "pages": 46,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 783087,
+  "landscape": false
+ },
+ "chapters-zh.pdf": {
+  "pages": 46,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 3923289,
+  "landscape": false
+ },
+ "map-bw-bi.pdf": {
+  "pages": 2,
+  "footer_min_in": 0.663,
+  "footer_max_in": 0.663,
+  "bytes": 481250,
+  "landscape": true
+ },
+ "map-bw-en.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.708,
+  "footer_max_in": 0.708,
+  "bytes": 91486,
+  "landscape": true
+ },
+ "map-bw-zh.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.663,
+  "footer_max_in": 0.663,
+  "bytes": 418290,
+  "landscape": true
+ },
+ "map-color-bi.pdf": {
+  "pages": 2,
+  "footer_min_in": 0.663,
+  "footer_max_in": 0.663,
+  "bytes": 463662,
+  "landscape": true
+ },
+ "map-color-en.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.708,
+  "footer_max_in": 0.708,
+  "bytes": 82995,
+  "landscape": true
+ },
+ "map-color-zh.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.663,
+  "footer_max_in": 0.663,
+  "bytes": 409859,
+  "landscape": true
+ },
+ "methods-bi.pdf": {
+  "pages": 26,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 1026126,
+  "landscape": false
+ },
+ "methods-en.pdf": {
+  "pages": 13,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 175118,
+  "landscape": false
+ },
+ "methods-zh.pdf": {
+  "pages": 13,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 878881,
+  "landscape": false
+ },
+ "notebook-bi.pdf": {
+  "pages": 94,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 1186546,
+  "landscape": false
+ },
+ "notebook-en.pdf": {
+  "pages": 47,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 297245,
+  "landscape": false
+ },
+ "notebook-zh.pdf": {
+  "pages": 47,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 902833,
+  "landscape": false
+ }
+}

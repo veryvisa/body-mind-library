@@ -1,0 +1,86 @@
+{
+ "cards-en.pdf": {
+  "pages": 42,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 1209831,
+  "landscape": false
+ },
+ "cards-zh.pdf": {
+  "pages": 42,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 2036102,
+  "landscape": false
+ },
+ "chapters-en.pdf": {
+  "pages": 46,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 852403,
+  "landscape": false
+ },
+ "chapters-zh.pdf": {
+  "pages": 46,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 4569623,
+  "landscape": false
+ },
+ "map-bw-en.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.708,
+  "footer_max_in": 0.708,
+  "bytes": 89211,
+  "landscape": true
+ },
+ "map-bw-zh.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.663,
+  "footer_max_in": 0.663,
+  "bytes": 377745,
+  "landscape": true
+ },
+ "map-color-en.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.708,
+  "footer_max_in": 0.708,
+  "bytes": 80803,
+  "landscape": true
+ },
+ "map-color-zh.pdf": {
+  "pages": 1,
+  "footer_min_in": 0.663,
+  "footer_max_in": 0.663,
+  "bytes": 369309,
+  "landscape": true
+ },
+ "methods-en.pdf": {
+  "pages": 13,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 178875,
+  "landscape": false
+ },
+ "methods-zh.pdf": {
+  "pages": 13,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 927161,
+  "landscape": false
+ },
+ "notebook-en.pdf": {
+  "pages": 47,
+  "footer_min_in": 0.711,
+  "footer_max_in": 0.711,
+  "bytes": 304168,
+  "landscape": false
+ },
+ "notebook-zh.pdf": {
+  "pages": 47,
+  "footer_min_in": 0.666,
+  "footer_max_in": 0.666,
+  "bytes": 961449,
+  "landscape": false
+ }
+}

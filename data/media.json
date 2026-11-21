@@ -1,0 +1,124 @@
+{
+ "version": 1,
+ "books": {
+  "teen-anxiety-workbook": {
+   "title_en": "The Anxiety Workbook for Teens",
+   "title_zh": "青少年焦虑练习册",
+   "pdf": {
+    "cards-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/cards-en.pdf",
+    "cards-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/cards-zh.pdf",
+    "chapters-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/chapters-en.pdf",
+    "chapters-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/chapters-zh.pdf",
+    "map-bw-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/map-bw-en.pdf",
+    "map-bw-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/map-bw-zh.pdf",
+    "map-color-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/map-color-en.pdf",
+    "map-color-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/map-color-zh.pdf",
+    "methods-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/methods-en.pdf",
+    "methods-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/methods-zh.pdf",
+    "notebook-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/notebook-en.pdf",
+    "notebook-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-anxiety-workbook/downloads/notebook-zh.pdf"
+   },
+   "audio": [
+    {
+     "ep": "overview",
+     "lang": "zh",
+     "bytes": 10907669,
+     "title_en": "Overview: what the book offers and how to use it",
+     "title_zh": "全书概览：焦虑能不能消灭，这本书怎么用",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/overview.m4a"
+    },
+    {
+     "ep": "e2",
+     "lang": "zh",
+     "bytes": 8866425,
+     "title_en": "Part 1: Understanding anxiety",
+     "title_zh": "第一部分：认识焦虑",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/e2.m4a"
+    },
+    {
+     "ep": "e3",
+     "lang": "zh",
+     "bytes": 6759545,
+     "title_en": "Part 2: Changing how you think",
+     "title_zh": "第二部分：换个想法",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/e3.m4a"
+    },
+    {
+     "ep": "e4",
+     "lang": "zh",
+     "bytes": 4867579,
+     "title_en": "Part 3: Say it, write it, look after your body",
+     "title_zh": "第三部分：说出来、写出来、照顾身体",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/e4.m4a"
+    },
+    {
+     "ep": "e5",
+     "lang": "zh",
+     "bytes": 7474957,
+     "title_en": "Part 4: Calming body and mind",
+     "title_zh": "第四部分：让身体和心静下来",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/e5.m4a"
+    },
+    {
+     "ep": "e6",
+     "lang": "zh",
+     "bytes": 8061663,
+     "title_en": "Part 5: Putting your days in order",
+     "title_zh": "第五部分：把日子理顺",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/e6.m4a"
+    },
+    {
+     "ep": "e7",
+     "lang": "zh",
+     "bytes": 6861907,
+     "title_en": "Part 6: Hard moments and what comes after",
+     "title_zh": "第六部分：难关时刻与往后",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/e7.m4a"
+    },
+    {
+     "ep": "e8",
+     "lang": "zh",
+     "bytes": 5497882,
+     "title_en": "How the workbook is built and how to read it",
+     "title_zh": "这本练习册怎么读",
+     "url": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/zh/e8.m4a"
+    }
+   ],
+   "audio_repos": [
+    "veryvisa/bml-audio-teen-anxiety-workbook"
+   ],
+   "pdf_repo": "veryvisa/bml-pdf-teen-anxiety-workbook",
+   "selftest": "https://veryvisa.github.io/bml-audio-teen-anxiety-workbook/_selftest/tone.m4a"
+  },
+  "teen-selfesteem-workbook": {
+   "title_en": "The Self-Esteem Workbook for Teens",
+   "title_zh": "青少年自尊练习册",
+   "pdf": {
+    "cards-bi.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/cards-bi.pdf",
+    "cards-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/cards-en.pdf",
+    "cards-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/cards-zh.pdf",
+    "chapters-bi.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/chapters-bi.pdf",
+    "chapters-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/chapters-en.pdf",
+    "chapters-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/chapters-zh.pdf",
+    "map-bw-bi.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/map-bw-bi.pdf",
+    "map-bw-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/map-bw-en.pdf",
+    "map-bw-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/map-bw-zh.pdf",
+    "map-color-bi.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/map-color-bi.pdf",
+    "map-color-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/map-color-en.pdf",
+    "map-color-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/map-color-zh.pdf",
+    "methods-bi.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/methods-bi.pdf",
+    "methods-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/methods-en.pdf",
+    "methods-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/methods-zh.pdf",
+    "notebook-bi.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/notebook-bi.pdf",
+    "notebook-en.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/notebook-en.pdf",
+    "notebook-zh.pdf": "https://veryvisa.github.io/bml-pdf-teen-selfesteem-workbook/downloads/notebook-zh.pdf"
+   },
+   "audio": [],
+   "audio_repos": [
+    "veryvisa/bml-audio-teen-selfesteem-workbook"
+   ],
+   "pdf_repo": "veryvisa/bml-pdf-teen-selfesteem-workbook",
+   "selftest": "https://veryvisa.github.io/bml-audio-teen-selfesteem-workbook/_selftest/tone.m4a"
+  }
+ }
+}
